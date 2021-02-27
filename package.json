@@ -4,7 +4,7 @@
   "scripts": {
     "build": "npm run build",
     "dev": "npm run dev",
-    "start": "npm start"
+    "start": "npm run start"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^17.0.0",
