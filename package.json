@@ -2,9 +2,9 @@
   "name": "svelte-app",
   "version": "1.0.0",
   "scripts": {
-    "build": "run build",
-    "dev": "run dev",
-    "start": "start"
+    "build": "npm run build",
+    "dev": "npm run dev",
+    "start": "npm start"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^17.0.0",
